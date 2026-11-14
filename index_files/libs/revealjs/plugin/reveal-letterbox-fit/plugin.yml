@@ -1,0 +1,10 @@
+name: RevealLetterboxFit
+script: letterbox-fit.js
+stylesheet: letterbox-fit.css
+config:
+  letterboxFit:
+    enabled: true
+    minScale: 0.55
+    maxScale: 1
+    tolerance: 1
+    skipAutoAnimate: true

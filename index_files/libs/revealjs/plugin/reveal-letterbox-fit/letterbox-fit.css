@@ -1,0 +1,55 @@
+/* The viewport occupies the visual height; only its natural-size child scales.
+   Keeping them separate prevents double-scaled heights and broken scrolling. */
+.reveal .letterbox-fit {
+  --letterbox-fit-gutter: 8px;
+  position: relative;
+  display: flow-root;
+  width: 100%;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.reveal .letterbox-fit-content {
+  display: flow-root;
+  width: 100%;
+  transform-origin: top left;
+}
+
+.reveal .letterbox-fit-active > .letterbox-fit-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: scale(var(--letterbox-fit-scale, 1));
+}
+
+.reveal section.letterbox-fit-scroll > .letterbox-fit {
+  overflow: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+}
+
+.reveal section.letterbox-fit-scroll > .letterbox-fit:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+@media print {
+  .reveal .letterbox-fit {
+    height: auto !important;
+    overflow: visible !important;
+  }
+  .reveal .letterbox-fit-content {
+    position: static !important;
+    transform: none !important;
+  }
+}
+.print-pdf .reveal .letterbox-fit,
+.reveal.print-pdf .letterbox-fit {
+  height: auto !important;
+  overflow: visible !important;
+}
+.print-pdf .reveal .letterbox-fit-content,
+.reveal.print-pdf .letterbox-fit-content {
+  position: static !important;
+  transform: none !important;
+}

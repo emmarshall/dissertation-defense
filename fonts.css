@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Komika Axis";
+  src: url("_extensions/letterbox-unl/fonts/KomikaAxis-djl.ttf") format("truetype");
+  font-weight: 400; font-style: normal; font-display: block;
+}
+
+@font-face { font-family: "Sora Local"; src: url("fonts/Sora-Regular.ttf") format("truetype");   font-weight: 400; font-display: block; }
+@font-face { font-family: "Sora Local"; src: url("fonts/Sora-SemiBold.ttf") format("truetype");  font-weight: 600; font-display: block; }
+@font-face { font-family: "Sora Local"; src: url("fonts/Sora-Bold.ttf") format("truetype");      font-weight: 700; font-display: block; }
+@font-face { font-family: "Sora Local"; src: url("fonts/Sora-ExtraBold.ttf") format("truetype"); font-weight: 800; font-display: block; }
+
+@font-face { font-family: "Sora"; src: url("fonts/Sora-Regular.ttf") format("truetype");   font-weight: 400; font-display: block; }
+@font-face { font-family: "Sora"; src: url("fonts/Sora-SemiBold.ttf") format("truetype");  font-weight: 600; font-display: block; }
+@font-face { font-family: "Sora"; src: url("fonts/Sora-Bold.ttf") format("truetype");      font-weight: 700; font-display: block; }
+@font-face { font-family: "Sora"; src: url("fonts/Sora-ExtraBold.ttf") format("truetype"); font-weight: 800; font-display: block; }

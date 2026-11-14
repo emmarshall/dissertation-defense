@@ -1,0 +1,5 @@
+/* arrow-review 0.1.0: the redrawn arrows (moved 2026-11-03 from the defense deck's diagram-arrows/arrows.css). */
+.nd-marker.ar-reviewed .ar-head{stroke-dasharray:none!important;fill:none!important}
+.nd-marker.ar-reviewed .ar-shaft{fill:none!important}
+svg.sem-uncertain.ar-reviewed>.ar-shaft{stroke-dasharray:11 8}
+svg.sem-uncertain.ar-reviewed>.ar-head{stroke-dasharray:none!important}

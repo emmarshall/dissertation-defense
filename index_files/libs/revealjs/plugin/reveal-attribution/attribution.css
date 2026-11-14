@@ -1,0 +1,40 @@
+/* Adapted from the supplied quarto-ext/attribution v0.1.1 stylesheet.
+   Original CSS is preserved in lecture-plan-v3/extension-source/attribution/.
+   Scope attribution to direct slide children; preserve Letterbox geometry. */
+.reveal .slides section > .attribution {
+  position: fixed;
+  top: 50%;
+  bottom: auto;
+  left: auto;
+  right: -30px;
+  font-size: 35% !important;
+  height: calc(100% - 80px);
+  pointer-events: none;
+  text-align: center;
+  writing-mode: vertical-lr;
+  transform: translateY(-50%) rotate(-180deg);
+  transform-origin: center;
+  text-orientation: sideways;
+  z-index: 100;
+  max-width: 30px;
+}
+.reveal .slides section > .attribution .content {
+  pointer-events: auto;
+}
+
+/* Inline variant: keep citeproc-generated poster credits with their quotations.
+   JS may wrap/scale all attribution nodes; this explicit CSS mode stays horizontal. */
+.reveal .slides .attribution.attribution-inline {
+  position: static;
+  font-size: 35% !important;
+  height: auto;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  writing-mode: horizontal-tb;
+  text-orientation: mixed;
+  transform: none !important;
+  max-width: none;
+  pointer-events: auto;
+}
