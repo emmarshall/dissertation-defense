@@ -230,8 +230,88 @@ window.arrowReviewTheory = {
     },
     {
       "slides": [
-        "m09",
         "m10"
+      ],
+      "from": [
+        335,
+        603
+      ],
+      "to": [
+        502,
+        475
+      ],
+      "curve": 0,
+      "arrowIndex": 0
+    },
+    {
+      "slides": [
+        "m10"
+      ],
+      "from": [
+        335,
+        687
+      ],
+      "to": [
+        502,
+        822
+      ],
+      "curve": 0,
+      "arrowIndex": 1
+    },
+    {
+      "slides": [
+        "m10",
+        "m88"
+      ],
+      "from": [
+        858,
+        506
+      ],
+      "to": [
+        992,
+        634
+      ],
+      "curve": 0,
+      "width": 6.8,
+      "arrowIndex": 2
+    },
+    {
+      "slides": [
+        "m10",
+        "m88"
+      ],
+      "from": [
+        858,
+        781
+      ],
+      "to": [
+        992,
+        666
+      ],
+      "curve": 0,
+      "width": 6.8,
+      "arrowIndex": 3
+    },
+    {
+      "slides": [
+        "m10",
+        "m88"
+      ],
+      "from": [
+        1498,
+        650
+      ],
+      "to": [
+        1629,
+        650
+      ],
+      "curve": 0,
+      "width": 6.8,
+      "arrowIndex": 4
+    },
+    {
+      "slides": [
+        "m09"
       ],
       "from": [
         375,
@@ -246,8 +326,7 @@ window.arrowReviewTheory = {
     },
     {
       "slides": [
-        "m09",
-        "m10"
+        "m09"
       ],
       "from": [
         375,
@@ -259,51 +338,6 @@ window.arrowReviewTheory = {
       ],
       "curve": 0,
       "arrowIndex": 1
-    },
-    {
-      "slides": [
-        "m10"
-      ],
-      "from": [
-        1100,
-        475
-      ],
-      "to": [
-        1225,
-        623
-      ],
-      "curve": 0,
-      "arrowIndex": 2
-    },
-    {
-      "slides": [
-        "m10"
-      ],
-      "from": [
-        1100,
-        822
-      ],
-      "to": [
-        1225,
-        674
-      ],
-      "curve": 0,
-      "arrowIndex": 3
-    },
-    {
-      "slides": [
-        "m10"
-      ],
-      "from": [
-        1397,
-        641
-      ],
-      "to": [
-        1487,
-        641
-      ],
-      "curve": 0,
-      "arrowIndex": 4
     }
   ],
   "insertions": [

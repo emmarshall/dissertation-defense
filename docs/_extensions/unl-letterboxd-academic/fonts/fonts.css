@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Komika Axis";
+  src: url("KomikaAxis-djl.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.reveal .font-komika {
+  font-family: "Komika Axis", sans-serif !important;
+  font-weight: 400;
+  font-style: normal;
+  font-synthesis: none;
+}
