@@ -4334,46 +4334,46 @@ Outcome likelihood
 <div class="hb-tick" style="--g:50">50</div>
 <div class="hb-tick" style="--g:75">75</div>
 <div class="hb-tick" style="--g:100">100</div>
-<img class="hb-icon no-lightbox" src="images/s1-evidence-abortion-phone.png" alt="" style="top:78px" data-in="0.40" data-anim="fade">
-<div class="hb-lab" style="top:78px" data-in="0.40" data-anim="fade">Expected<span class="lab-ev"><span class="lab-h">Hindsight</span> (SMA evidence)</span></div>
-<div class="hb-bar lk-c1" style="top:78px;--v:`r fmt1(r$s1_pool$preg_sma)`" data-in="0.8" data-anim="barx"></div>
-<div class="hb-val lk-c1" style="top:78px;--e:`r fmt1(r$s1_pool$preg_sma_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$preg_sma)`</div>
-<div class="hb-ci" style="top:78px;--cl:`r fmt1(r$s1_pool$preg_sma_lo)`;--ch:`r fmt1(r$s1_pool$preg_sma_hi)`" data-in="1.6" data-anim="fade"></div>
-<img class="hb-icon no-lightbox" src="images/no-outcome-information-crystal.png" alt="" style="top:124px" data-in="0.40" data-anim="fade">
-<div class="hb-lab" style="top:124px" data-in="0.40" data-anim="fade">No information<span class="lab-ev">Foresight</span></div>
-<div class="hb-bar lk-c0" style="top:124px;--v:`r fmt1(r$s1_pool$preg_none)`" data-in="0.8" data-anim="barx"></div>
-<div class="hb-val lk-c0" style="top:124px;--e:`r fmt1(r$s1_pool$preg_none_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$preg_none)`</div>
-<div class="hb-ci" style="top:124px;--cl:`r fmt1(r$s1_pool$preg_none_lo)`;--ch:`r fmt1(r$s1_pool$preg_none_hi)`" data-in="1.6" data-anim="fade"></div>
+<img class="hb-icon no-lightbox" src="images/s1-evidence-abortion-phone.png" alt="" style="top:124px" data-in="0.40" data-anim="fade">
+<div class="hb-lab" style="top:124px" data-in="0.40" data-anim="fade">Expected<span class="lab-ev"><span class="lab-h">Hindsight</span> (SMA evidence)</span></div>
+<div class="hb-bar lk-c1" style="top:124px;--v:`r fmt1(r$s1_pool$preg_sma)`" data-in="0.8" data-anim="barx"></div>
+<div class="hb-val lk-c1" style="top:124px;--e:`r fmt1(r$s1_pool$preg_sma_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$preg_sma)`</div>
+<div class="hb-ci" style="top:124px;--cl:`r fmt1(r$s1_pool$preg_sma_lo)`;--ch:`r fmt1(r$s1_pool$preg_sma_hi)`" data-in="1.6" data-anim="fade"></div>
+<img class="hb-icon no-lightbox" src="images/no-outcome-information-crystal.png" alt="" style="top:78px" data-in="0.40" data-anim="fade">
+<div class="hb-lab" style="top:78px" data-in="0.40" data-anim="fade">No information<span class="lab-ev">Foresight</span></div>
+<div class="hb-bar lk-c0" style="top:78px;--v:`r fmt1(r$s1_pool$preg_none)`" data-in="0.8" data-anim="barx"></div>
+<div class="hb-val lk-c0" style="top:78px;--e:`r fmt1(r$s1_pool$preg_none_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$preg_none)`</div>
+<div class="hb-ci" style="top:78px;--cl:`r fmt1(r$s1_pool$preg_none_lo)`;--ch:`r fmt1(r$s1_pool$preg_none_hi)`" data-in="1.6" data-anim="fade"></div>
 <img class="hb-icon no-lightbox" src="images/s1-evidence-financial-phone.png" alt="" style="top:170px" data-in="0.40" data-anim="fade">
 <div class="hb-lab" style="top:170px" data-in="0.40" data-anim="fade">Unexpected<span class="lab-ev"><span class="lab-h">Hindsight</span> (Financial evidence)</span></div>
 <div class="hb-bar lk-c2" style="top:170px;--v:`r fmt1(r$s1_pool$preg_fin)`" data-in="0.8" data-anim="barx"></div>
 <div class="hb-val lk-c2" style="top:170px;--e:`r fmt1(r$s1_pool$preg_fin_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$preg_fin)`</div>
 <div class="hb-ci" style="top:170px;--cl:`r fmt1(r$s1_pool$preg_fin_lo)`;--ch:`r fmt1(r$s1_pool$preg_fin_hi)`" data-in="1.6" data-anim="fade"></div>
-<img class="hb-icon no-lightbox" src="images/s1-evidence-abortion-phone.png" alt="" style="top:283px" data-in="0.40" data-anim="fade">
-<div class="hb-lab" style="top:283px" data-in="0.40" data-anim="fade">Expected<span class="lab-ev"><span class="lab-h">Hindsight</span> (SMA evidence)</span></div>
-<div class="hb-bar lk-c1" style="top:283px;--v:`r fmt1(r$s1_pool$fin_sma)`" data-in="0.8" data-anim="barx"></div>
-<div class="hb-val lk-c1" style="top:283px;--e:`r fmt1(r$s1_pool$fin_sma_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$fin_sma)`</div>
-<div class="hb-ci" style="top:283px;--cl:`r fmt1(r$s1_pool$fin_sma_lo)`;--ch:`r fmt1(r$s1_pool$fin_sma_hi)`" data-in="1.6" data-anim="fade"></div>
-<img class="hb-icon no-lightbox" src="images/no-outcome-information-crystal.png" alt="" style="top:329px" data-in="0.40" data-anim="fade">
-<div class="hb-lab" style="top:329px" data-in="0.40" data-anim="fade">No information<span class="lab-ev">Foresight</span></div>
-<div class="hb-bar lk-c0" style="top:329px;--v:`r fmt1(r$s1_pool$fin_none)`" data-in="0.8" data-anim="barx"></div>
-<div class="hb-val lk-c0" style="top:329px;--e:`r fmt1(r$s1_pool$fin_none_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$fin_none)`</div>
-<div class="hb-ci" style="top:329px;--cl:`r fmt1(r$s1_pool$fin_none_lo)`;--ch:`r fmt1(r$s1_pool$fin_none_hi)`" data-in="1.6" data-anim="fade"></div>
+<img class="hb-icon no-lightbox" src="images/s1-evidence-abortion-phone.png" alt="" style="top:329px" data-in="0.40" data-anim="fade">
+<div class="hb-lab" style="top:329px" data-in="0.40" data-anim="fade">Expected<span class="lab-ev"><span class="lab-h">Hindsight</span> (SMA evidence)</span></div>
+<div class="hb-bar lk-c1" style="top:329px;--v:`r fmt1(r$s1_pool$fin_sma)`" data-in="0.8" data-anim="barx"></div>
+<div class="hb-val lk-c1" style="top:329px;--e:`r fmt1(r$s1_pool$fin_sma_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$fin_sma)`</div>
+<div class="hb-ci" style="top:329px;--cl:`r fmt1(r$s1_pool$fin_sma_lo)`;--ch:`r fmt1(r$s1_pool$fin_sma_hi)`" data-in="1.6" data-anim="fade"></div>
+<img class="hb-icon no-lightbox" src="images/no-outcome-information-crystal.png" alt="" style="top:283px" data-in="0.40" data-anim="fade">
+<div class="hb-lab" style="top:283px" data-in="0.40" data-anim="fade">No information<span class="lab-ev">Foresight</span></div>
+<div class="hb-bar lk-c0" style="top:283px;--v:`r fmt1(r$s1_pool$fin_none)`" data-in="0.8" data-anim="barx"></div>
+<div class="hb-val lk-c0" style="top:283px;--e:`r fmt1(r$s1_pool$fin_none_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$fin_none)`</div>
+<div class="hb-ci" style="top:283px;--cl:`r fmt1(r$s1_pool$fin_none_lo)`;--ch:`r fmt1(r$s1_pool$fin_none_hi)`" data-in="1.6" data-anim="fade"></div>
 <img class="hb-icon no-lightbox" src="images/s1-evidence-financial-phone.png" alt="" style="top:375px" data-in="0.40" data-anim="fade">
 <div class="hb-lab" style="top:375px" data-in="0.40" data-anim="fade">Unexpected<span class="lab-ev"><span class="lab-h">Hindsight</span> (Financial evidence)</span></div>
 <div class="hb-bar lk-c2" style="top:375px;--v:`r fmt1(r$s1_pool$fin_fin)`" data-in="0.8" data-anim="barx"></div>
 <div class="hb-val lk-c2" style="top:375px;--e:`r fmt1(r$s1_pool$fin_fin_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$fin_fin)`</div>
 <div class="hb-ci" style="top:375px;--cl:`r fmt1(r$s1_pool$fin_fin_lo)`;--ch:`r fmt1(r$s1_pool$fin_fin_hi)`" data-in="1.6" data-anim="fade"></div>
-<img class="hb-icon no-lightbox" src="images/s1-evidence-abortion-phone.png" alt="" style="top:488px" data-in="0.40" data-anim="fade">
-<div class="hb-lab" style="top:488px" data-in="0.40" data-anim="fade">Expected<span class="lab-ev"><span class="lab-h">Hindsight</span> (SMA evidence)</span></div>
-<div class="hb-bar lk-c1" style="top:488px;--v:`r fmt1(r$s1_pool$noth_sma)`" data-in="0.8" data-anim="barx"></div>
-<div class="hb-val lk-c1" style="top:488px;--e:`r fmt1(r$s1_pool$noth_sma_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$noth_sma)`</div>
-<div class="hb-ci" style="top:488px;--cl:`r fmt1(r$s1_pool$noth_sma_lo)`;--ch:`r fmt1(r$s1_pool$noth_sma_hi)`" data-in="1.6" data-anim="fade"></div>
-<img class="hb-icon no-lightbox" src="images/no-outcome-information-crystal.png" alt="" style="top:534px" data-in="0.40" data-anim="fade">
-<div class="hb-lab" style="top:534px" data-in="0.40" data-anim="fade">No information<span class="lab-ev">Foresight</span></div>
-<div class="hb-bar lk-c0" style="top:534px;--v:`r fmt1(r$s1_pool$noth_none)`" data-in="0.8" data-anim="barx"></div>
-<div class="hb-val lk-c0" style="top:534px;--e:`r fmt1(r$s1_pool$noth_none_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$noth_none)`</div>
-<div class="hb-ci" style="top:534px;--cl:`r fmt1(r$s1_pool$noth_none_lo)`;--ch:`r fmt1(r$s1_pool$noth_none_hi)`" data-in="1.6" data-anim="fade"></div>
+<img class="hb-icon no-lightbox" src="images/s1-evidence-abortion-phone.png" alt="" style="top:534px" data-in="0.40" data-anim="fade">
+<div class="hb-lab" style="top:534px" data-in="0.40" data-anim="fade">Expected<span class="lab-ev"><span class="lab-h">Hindsight</span> (SMA evidence)</span></div>
+<div class="hb-bar lk-c1" style="top:534px;--v:`r fmt1(r$s1_pool$noth_sma)`" data-in="0.8" data-anim="barx"></div>
+<div class="hb-val lk-c1" style="top:534px;--e:`r fmt1(r$s1_pool$noth_sma_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$noth_sma)`</div>
+<div class="hb-ci" style="top:534px;--cl:`r fmt1(r$s1_pool$noth_sma_lo)`;--ch:`r fmt1(r$s1_pool$noth_sma_hi)`" data-in="1.6" data-anim="fade"></div>
+<img class="hb-icon no-lightbox" src="images/no-outcome-information-crystal.png" alt="" style="top:488px" data-in="0.40" data-anim="fade">
+<div class="hb-lab" style="top:488px" data-in="0.40" data-anim="fade">No information<span class="lab-ev">Foresight</span></div>
+<div class="hb-bar lk-c0" style="top:488px;--v:`r fmt1(r$s1_pool$noth_none)`" data-in="0.8" data-anim="barx"></div>
+<div class="hb-val lk-c0" style="top:488px;--e:`r fmt1(r$s1_pool$noth_none_hi)`" data-in="1.6" data-anim="fade">`r fmt1(r$s1_pool$noth_none)`</div>
+<div class="hb-ci" style="top:488px;--cl:`r fmt1(r$s1_pool$noth_none_lo)`;--ch:`r fmt1(r$s1_pool$noth_none_hi)`" data-in="1.6" data-anim="fade"></div>
 <img class="hb-icon no-lightbox" src="images/s1-evidence-financial-phone.png" alt="" style="top:580px" data-in="0.40" data-anim="fade">
 <div class="hb-lab" style="top:580px" data-in="0.40" data-anim="fade">Unexpected<span class="lab-ev"><span class="lab-h">Hindsight</span> (Financial evidence)</span></div>
 <div class="hb-bar lk-c2" style="top:580px;--v:`r fmt1(r$s1_pool$noth_fin)`" data-in="0.8" data-anim="barx"></div>
@@ -4381,11 +4381,11 @@ Outcome likelihood
 <div class="hb-ci" style="top:580px;--cl:`r fmt1(r$s1_pool$noth_fin_lo)`;--ch:`r fmt1(r$s1_pool$noth_fin_hi)`" data-in="1.6" data-anim="fade"></div>
 <div class="rk-g" data-in="0.01" data-step="2" data-anim="out"><div class="rk-g" style="--e1:`r fmt1(r$s1_pool$preg_sma_hi)`;--e2:`r fmt1(r$s1_pool$preg_none_hi)`" data-in="0.1" data-step="1" data-anim="fade"><div class="rk-box" style="top:50px;height:102px"></div></div></div>
 <div class="rk-g rk-dg" data-in="0.01" data-step="2" data-anim="gray"><span class="rk-d hb-keep" style="--e1:`r fmt1(r$s1_pool$preg_sma_hi)`;--e2:`r fmt1(r$s1_pool$preg_none_hi)`;top:90px" data-in="0.1" data-step="1" data-anim="fade">`r fmt2_signed(r$s1_pool$h1h)``r stars(r$s1_pool$h1h_p)`</span></div>
-<div class="rk-g" data-in="0.01" data-step="3" data-anim="out"><div class="rk-g" style="--e1:`r fmt1(r$s1_pool$preg_none_hi)`;--e2:`r fmt1(r$s1_pool$preg_fin_hi)`" data-in="0.1" data-step="2" data-anim="fade"><div class="rk-box" style="top:96px;height:102px"></div></div></div>
-<div class="rk-g rk-dg" data-in="0.01" data-step="3" data-anim="gray"><span class="rk-d hb-keep" style="--e1:`r fmt1(r$s1_pool$preg_none_hi)`;--e2:`r fmt1(r$s1_pool$preg_fin_hi)`;top:158px" data-in="0.1" data-step="2" data-anim="fade">`r fmt2_signed(r$s1_pool$h1i)``r stars(r$s1_pool$h1i_p)`</span></div>
-<div class="rk-g" data-in="0.01" data-step="4" data-anim="out"><div class="rk-g" style="--e1:`r fmt1(r$s1_pool$fin_none_hi)`;--e2:`r fmt1(r$s1_pool$fin_fin_hi)`" data-in="0.1" data-step="3" data-anim="fade"><div class="rk-box" style="top:301px;height:102px"></div></div></div>
+<div class="rk-g" data-in="0.01" data-step="3" data-anim="out"><div class="rk-g" style="--e1:`r fmt1(r$s1_pool$preg_none_hi)`;--e2:`r fmt1(r$s1_pool$preg_fin_hi)`" data-in="0.1" data-step="2" data-anim="fade"><div class="rk-box rk-bridge" style="left:-26px;top:50px;width:1022px;height:148px"><svg viewBox="0 0 1022 148" preserveAspectRatio="none" aria-hidden="true"><path d="M6.5 6.5 H1015.5 V141.5 H6.5 V97 H974 V51 H6.5 Z" vector-effect="non-scaling-stroke"/></svg></div></div></div>
+<div class="rk-g rk-dg" data-in="0.01" data-step="3" data-anim="gray"><span class="rk-d hb-keep" style="--e1:`r fmt1(r$s1_pool$preg_none_hi)`;--e2:`r fmt1(r$s1_pool$preg_fin_hi)`;top:158px;left:1016px" data-in="0.1" data-step="2" data-anim="fade">`r fmt2_signed(r$s1_pool$h1i)``r stars(r$s1_pool$h1i_p)`</span></div>
+<div class="rk-g" data-in="0.01" data-step="4" data-anim="out"><div class="rk-g" style="--e1:`r fmt1(r$s1_pool$fin_none_hi)`;--e2:`r fmt1(r$s1_pool$fin_fin_hi)`" data-in="0.1" data-step="3" data-anim="fade"><div class="rk-box rk-bridge" style="left:-26px;top:255px;width:977px;height:148px"><svg viewBox="0 0 977 148" preserveAspectRatio="none" aria-hidden="true"><path d="M6.5 6.5 H970.5 V141.5 H6.5 V97 H717 V51 H6.5 Z" vector-effect="non-scaling-stroke"/></svg></div></div></div>
 <div class="rk-g rk-dg" data-in="0.01" data-step="4" data-anim="gray"><span class="rk-d hb-keep" style="--e1:`r fmt1(r$s1_pool$fin_none_hi)`;--e2:`r fmt1(r$s1_pool$fin_fin_hi)`;top:352px" data-in="0.1" data-step="3" data-anim="fade">`r fmt2_signed(r$s1_pool$h1e)``r stars(r$s1_pool$h1e_p)`</span></div>
-<div class="rk-g" data-in="0.01" data-step="5" data-anim="out"><div class="rk-g" style="--e1:`r fmt1(r$s1_pool$noth_none_hi)`;--e2:`r fmt1(r$s1_pool$noth_fin_hi)`" data-in="0.1" data-step="4" data-anim="fade"><div class="rk-box" style="top:506px;height:102px"></div></div></div>
+<div class="rk-g" data-in="0.01" data-step="5" data-anim="out"><div class="rk-g" style="--e1:`r fmt1(r$s1_pool$noth_none_hi)`;--e2:`r fmt1(r$s1_pool$noth_fin_hi)`" data-in="0.1" data-step="4" data-anim="fade"><div class="rk-box rk-bridge" style="left:-26px;top:460px;width:1058px;height:148px"><svg viewBox="0 0 1058 148" preserveAspectRatio="none" aria-hidden="true"><path d="M6.5 6.5 H1051.5 V141.5 H6.5 V97 H903 V51 H6.5 Z" vector-effect="non-scaling-stroke"/></svg></div></div></div>
 <div class="rk-g rk-dg" data-in="0.01" data-step="5" data-anim="gray"><span class="rk-d hb-keep" style="--e1:`r fmt1(r$s1_pool$noth_none_hi)`;--e2:`r fmt1(r$s1_pool$noth_fin_hi)`;top:568px" data-in="0.1" data-step="4" data-anim="fade">`r fmt2_signed(r$s1_pool$h1g)``r stars(r$s1_pool$h1g_p)`</span></div>
 <div class="rk-g" style="--e1:`r fmt1(r$s1_pool$noth_sma_hi)`;--e2:`r fmt1(r$s1_pool$noth_none_hi)`" data-in="0.1" data-step="5" data-anim="fade"><div class="rk-box" style="top:460px;height:102px"></div></div>
 <span class="rk-d hb-keep" style="--e1:`r fmt1(r$s1_pool$noth_sma_hi)`;--e2:`r fmt1(r$s1_pool$noth_none_hi)`;top:500px" data-in="0.1" data-step="5" data-anim="fade">`r fmt2_signed(r$s1_pool$h1f)``r stars(r$s1_pool$h1f_p)`</span>
