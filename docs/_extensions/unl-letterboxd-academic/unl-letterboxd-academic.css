@@ -3302,3 +3302,11 @@ html:not(.reveal-print) .reveal .slides #m43 > .attribution {
 .reveal .slides #m10 .stage .pw4 .nd-object:has(> img[src*="magnifier-search-ring"]) { translate: 0 8px !important; }
 
 .reveal .slides .stage .sem2-card .s2-fitnote { grid-column: 1 / -1; display: block; margin-top: 6px; font: italic 500 22px/1.25 var(--body); color: #d00000; }
+
+.reveal .slides #m10 .stage .pw4 .pw-outcome-heading { translate: -73px 0 !important; }
+.reveal .slides #m10 .stage .pw4 .nd-object:has(> img[src*="seizure-handcuffs"]) { translate: -73px 74px !important; }
+.reveal .slides #m10 .stage .pw4 .nd-object:has(> img[src*="magnifier-search-ring"]) { translate: -73px 8px !important; }
+.reveal .slides #m10 .stage:not(:has(.pw-s1.visible)) .pw .pw-pc { transform: translateX(-94px); }
+.reveal .slides #m10 .stage:has(.pw-s1.visible):not(:has(.pw-s2.visible)) .pw .pw-pc { transform: translateX(-190px); }
+.reveal .slides :is(#m05, #m06, #m26, #m07, #m87, #m10, #m09) > .attribution { height: 380px !important; text-align: start !important; }
+.reveal .slides #m26 > .attribution { margin-top: 39.7px !important; }

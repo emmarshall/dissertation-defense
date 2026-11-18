@@ -947,7 +947,7 @@ Hindsight bias
 :::::::
 
 ::: {.attribution}
-[@roese_vohs12]
+[@fischhoff75; @roese_vohs12]
 :::
 
 ::: notes
@@ -986,7 +986,7 @@ Hindsight bias
 :::::::
 
 ::: {.attribution}
-[@roese_vohs12]
+[@fischhoff75; @roese_vohs12]
 :::
 
 ::: notes
@@ -1049,7 +1049,7 @@ Hindsight bias
 :::::::
 
 ::: {.attribution}
-[@roese_vohs12]
+[@fischhoff75; @roese_vohs12]
 :::
 
 ::: notes
@@ -1198,12 +1198,12 @@ Hindsight and sense-making
 <div class="pw-wrap pw-outcome-bias pw-st pw-st-b">
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="335,603" to="502,475" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="282,598" to="502,475" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="335,687" to="502,822" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="282,690" to="502,822" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 <div class="pw-group panel" data-id="pw-outcome-group" style="left:560px;top:665px;width:520px;height:303px;" aria-hidden="true"></div>
@@ -1264,24 +1264,24 @@ Hindsight and sense-making
 <div class="pw-st pw-st-a">
 <div class="nd-state arrow-wrap" aria-hidden="true" data-in="0.6" data-anim="fade">
 
-{{< arrow from="415,641" to="538,641" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="282,641" to="538,641" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 <div class="nd-state arrow-wrap" aria-hidden="true" data-in="1.25" data-anim="fade">
 
-{{< arrow from="1120,641" to="1310,641" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="1120,641" to="1376,641" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 </div>
 <div class="pw-st pw-st-bonly">
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="1060,475" to="1310,610" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="1060,475" to="1280,610" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="1060,822" to="1310,672" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="1060,822" to="1280,672" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 </div>
@@ -1450,12 +1450,12 @@ Program of Research
 <div class="pw-wrap pw-outcome-bias pw-st pw-st-b">
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="335,603" to="502,475" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="282,598" to="502,475" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="335,687" to="502,822" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="282,690" to="502,822" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 <div class="pw-group panel" style="left:560px;top:665px;width:520px;height:303px;" aria-hidden="true"></div>
@@ -1516,24 +1516,24 @@ Program of Research
 <div class="pw-st pw-st-a">
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="415,641" to="538,641" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="282,641" to="538,641" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="1120,641" to="1310,641" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="1120,641" to="1376,641" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 </div>
 <div class="pw-st pw-st-bonly">
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="1060,475" to="1310,610" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="1060,475" to="1280,610" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 <div class="nd-state arrow-wrap" aria-hidden="true">
 
-{{< arrow from="1060,822" to="1310,672" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
+{{< arrow from="1060,822" to="1280,672" width="8" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" >}}
 
 </div>
 </div>
@@ -3599,7 +3599,7 @@ Hypothesized model
 <div id="m77-node-confidence" class="s2-node" style="left:1360px;top:150px;width:300px;height:120px" data-in="0.6" data-anim="rise"><img class="s2-ic" src="media/measure-icons/legal-decision-framed.svg" alt=""><div class="s2-tx"><span class="s2-hd">Probable cause–confidence</span></div></div>
 <div class="nd-state arrow-wrap" aria-hidden="true" data-in="0.7" data-anim="fade">
 
-{{< arrow from="304.2,183" to="495.8,183" width="8.5" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" aria-label="m77: SMA evidence to relative relevance" >}}
+{{< arrow from="304.2,210" to="495.8,210" width="8.5" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" aria-label="m77: SMA evidence to relative relevance" >}}
 
 </div>
 <div class="s2-pos" style="left:400px;top:169px;transform:translate(-50%,-100%)"><div class="s2-w s2-route" data-in="0.75" data-anim="fade"><div class="s2-wb"><span class="s2-wn" style="font:700 26px/1.1 var(--body);letter-spacing:0">H1a, H4b</span></div></div></div>
@@ -4537,7 +4537,7 @@ Retrospective sense-making
 </div>
 <div class="s2-pos" style="left:860px;top:164px;transform:translate(-50%,-50%)" data-in="0.01" data-step="3" data-anim="out"><div class="s2-w s2-dir s2-on" data-in="0.95" data-step="1" data-anim="fade"><div class="s2-wb"><span class="s2-wn">`r fmt2(r$s1_relrel_paths$dir_xs)`&#42;</span><span class="s2-wci">`r ci2(r$s1_relrel_paths$dir_xs_lo, r$s1_relrel_paths$dir_xs_hi)`</span></div></div></div>
 <div data-in="0.01" data-step="3" data-anim="out"><div class="s2-note" style="top:702px" data-in="1.1" data-step="1" data-anim="fade"><span>Arrows: unstandardized b [robust Wald 95% CI]</span><span>&#42; 95% CI excludes zero</span><span><i class="s2-k s2-kns"></i>Dashed: interval includes zero</span></div></div>
-<div class="s2-note s2-sgnkey" style="top:702px" data-in="0.3" data-step="3" data-after="0.25" data-anim="fade"><span><span class="s2-sgn p" aria-hidden="true"></span>increase</span><span><span class="s2-sgn m" aria-hidden="true"></span>decrease</span><span><i class="s2-dash" aria-hidden="true"></i>no clear link</span><span>Same in both versions of the case</span></div>
+<div class="s2-note s2-sgnkey" style="top:702px" data-in="0.3" data-step="3" data-after="0.25" data-anim="fade"><span><span class="s2-sgn p" aria-hidden="true"></span>increase</span><span><span class="s2-sgn m" aria-hidden="true"></span>decrease</span><span><i class="s2-dash" aria-hidden="true"></i>no clear link</span><span>Same in both legal contexts</span></div>
 <div class="s2-sgn p" style="left:498px;top:172px" data-in="0.3" data-step="3" data-after="0.25" data-anim="pop" aria-hidden="true"></div>
 <div class="s2-sgn p" style="left:1130px;top:340px" data-in="0.3" data-step="3" data-after="0.25" data-anim="pop" aria-hidden="true"></div>
 <div class="s2-sgn p" style="left:866px;top:166px" data-in="0.3" data-step="3" data-after="0.25" data-anim="pop" aria-hidden="true"></div>
@@ -4653,7 +4653,7 @@ Pathways to probable cause–confidence
 <div id="m36-node-foreseeability" class="s2-node s2-med s2-noic" style="left:1000px;top:424px;width:280px;height:130px" data-in="0.7" data-anim="rise"><div class="s2-tx"><span class="s2-hd">Foreseeability</span></div></div>
 <div class="nd-state arrow-wrap" aria-hidden="true" data-in="0.2" data-step="1" data-anim="fade">
 
-{{< arrow from="284.2,193" to="515.8,193" width="8.5" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" aria-label="m36: SMA evidence to relative relevance" >}}
+{{< arrow from="284.2,225" to="515.8,225" width="8.5" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" aria-label="m36: SMA evidence to relative relevance" >}}
 
 </div>
 <div class="s2-pos" style="left:400px;top:150px;transform:translate(-50%,-100%)"><div class="s2-w s2-route" data-in="0.35" data-step="1" data-anim="fade"><div class="s2-wb"><span class="s2-wc">Abortion</span><span class="s2-wn">`r fmt2(r$s1_h4$xs_ab)`&#42;</span><span class="s2-wci">`r ci2(r$s1_h4$xs_ab_lo, r$s1_h4$xs_ab_hi)`</span></div><div class="s2-wb"><span class="s2-wc">Disposal</span><span class="s2-wn">`r fmt2(r$s1_h4$xs_di)`&#42;</span><span class="s2-wci">`r ci2(r$s1_h4$xs_di_lo, r$s1_h4$xs_di_hi)`</span></div></div></div>
@@ -4945,7 +4945,7 @@ Decision quality
 <div id="m76-node-quality" class="s2-node" style="left:1430px;top:275px;width:230px;height:124px" data-in="0.7" data-anim="rise"><img class="s2-ic" src="images/detective-decision-quality.png" alt=""><div class="s2-tx"><span class="s2-hd">Decision quality</span></div></div>
 <div class="nd-state arrow-wrap" aria-hidden="true" data-in="0.2" data-step="1" data-anim="fade">
 
-{{< arrow from="244,160.3" to="393.7,160.3" width="8.5" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" aria-label="m76: SMA evidence to evidence relevance" >}}
+{{< arrow from="244,195" to="393.7,195" width="8.5" color="#16182d" head="stealth" head-size="3.5" position="absolute" class="nd-marker" aria-label="m76: SMA evidence to evidence relevance" >}}
 
 </div>
 <div class="s2-pos" style="left:321.8px;top:123px;transform:translate(-50%,-100%)" data-in="0.01" data-step="3" data-anim="out"><div class="s2-w s2-route" data-in="0.35" data-step="1" data-anim="fade"><div class="s2-wb"><span class="s2-wc">Abortion</span><span class="s2-wn">`r fmt2(r$s1_h2dq$xs_e_ab)`&#42;</span><span class="s2-wci">`r ci2(r$s1_h2dq$xs_e_ab_lo, r$s1_h2dq$xs_e_ab_hi)`</span></div><div class="s2-wb"><span class="s2-wc">Disposal</span><span class="s2-wn">`r fmt2(r$s1_h2dq$xs_e_di)`</span><span class="s2-wci">`r ci2(r$s1_h2dq$xs_e_di_lo, r$s1_h2dq$xs_e_di_hi)`</span></div></div></div>
@@ -4992,9 +4992,9 @@ Decision quality
 </div>
 <div class="s2-pos" style="left:1545px;top:409px;transform:translate(-50%,0)" data-in="0.01" data-step="3" data-anim="out"><div class="s2-w s2-route" data-in="0.2" data-step="3" data-anim="fade"><div class="s2-wb"><span class="s2-wc">Abortion</span><span class="s2-wn">`r fmt2(r$s1_h2dq$f_q_ab)`&#42;</span><span class="s2-wci">`r ci2(r$s1_h2dq$f_q_ab_lo, r$s1_h2dq$f_q_ab_hi)`</span></div><div class="s2-wb"><span class="s2-wc">Disposal</span><span class="s2-wn">`r fmt2(r$s1_h2dq$f_q_di)`&#42;</span><span class="s2-wci">`r ci2(r$s1_h2dq$f_q_di_lo, r$s1_h2dq$f_q_di_hi)`</span></div></div></div>
 <div data-in="0.01" data-step="3" data-anim="out"><div class="s2-note" style="top:702px" data-in="1.1" data-step="1" data-anim="fade"><span>Arrows: unstandardized b [robust Wald 95% CI]</span><span>&#42; 95% CI excludes zero</span><span><i class="s2-k s2-kns"></i>Dashed: interval includes zero</span></div></div>
-<div class="s2-note s2-sgnkey" style="top:702px" data-in="0.3" data-step="3" data-after="0.25" data-anim="fade"><span><span class="s2-sgn p" aria-hidden="true"></span>increase</span><span><span class="s2-sgn m" aria-hidden="true"></span>decrease</span><span><span class="s2-sgn p half" aria-hidden="true"></span>one version of the case only</span><span><i class="s2-dash" aria-hidden="true"></i>no clear link</span></div>
+<div class="s2-note s2-sgnkey" style="top:702px" data-in="0.3" data-step="3" data-after="0.25" data-anim="fade"><span><span class="s2-sgn p" aria-hidden="true"></span>increase</span><span><span class="s2-sgn m" aria-hidden="true"></span>decrease</span><span><span class="s2-sgn p half" aria-hidden="true"></span>one legal context only</span><span><i class="s2-dash" aria-hidden="true"></i>no clear link</span></div>
 <div class="s2-note m76-mnote" style="top:760px;font-style:italic;" data-in="0.3" data-step="3" data-after="0.25" data-anim="fade">Relevance here is the registered ten-item mean, not relative relevance. Direct paths and attitude covariates are not drawn.</div>
-<div class="s2-sgn m half" style="left:318.8px;top:160.3px" data-in="0.3" data-step="3" data-after="0.25" data-anim="pop" aria-hidden="true"></div>
+<div class="s2-sgn m half" style="left:318.8px;top:195px" data-in="0.3" data-step="3" data-after="0.25" data-anim="pop" aria-hidden="true"></div>
 <div class="s2-sgn p half" style="left:282.9px;top:277.8px" data-in="0.3" data-step="3" data-after="0.25" data-anim="pop" aria-hidden="true"></div>
 <div class="s2-sgn m half" style="left:282.9px;top:397.2px" data-in="0.3" data-step="3" data-after="0.25" data-anim="pop" aria-hidden="true"></div>
 <div class="s2-sgn p" style="left:793.8px;top:195px" data-in="0.3" data-step="3" data-after="0.25" data-anim="pop" aria-hidden="true"></div>
@@ -6612,7 +6612,7 @@ Limitations and Future Directions
 ::: {#m24-c2 .panel .fcard .nonincremental data-in="0.7"}
 ![](media/icon-evidence-crop.svg){.ficon .no-lightbox fig-alt="" aria-hidden="true"}
 
-[Materials]{.fc-h}
+[Case &amp;<br>Materials]{.fc-h}
 
 ::: {.lim .nonincremental data-in="0.1" data-step="2" data-anim="fade"}
 - Single fact pattern
@@ -6628,7 +6628,7 @@ Limitations and Future Directions
 ::: {#m24-c3 .panel .fcard .nonincremental data-in="0.8"}
 ![](images/magnifier-results-ring.png){.ficon .no-lightbox fig-alt="" aria-hidden="true"}
 
-[Analysis]{.fc-h}
+[Measurement &amp;<br>Analysis]{.fc-h}
 
 ::: {.lim .nonincremental data-in="0.1" data-step="4" data-anim="fade"}
 - Timing of relevance ratings
@@ -6774,7 +6774,7 @@ Limitations
 ::: {#m23-c2 .panel .fcard .nonincremental data-in="0.3" data-step="1"}
 ![](media/icon-evidence-crop.svg){.ficon .no-lightbox fig-alt="" aria-hidden="true"}
 
-[Materials]{.fc-h}
+[Case &amp;<br>Materials]{.fc-h}
 
 - Single type of fact pattern
 - Fictional statutes
@@ -6784,7 +6784,7 @@ Limitations
 ::: {#m23-c3 .panel .fcard .nonincremental data-in="0.3" data-step="2"}
 ![](images/magnifier-results-ring.png){.ficon .no-lightbox fig-alt="" aria-hidden="true"}
 
-[Analysis]{.fc-h}
+[Measurement &amp;<br>Analysis]{.fc-h}
 
 - Timing of the relevance ratings
 - Relative relevance remains exploratory

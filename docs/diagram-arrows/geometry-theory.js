@@ -228,36 +228,8 @@ window.arrowReviewTheory = {
       "curve": 0,
       "label": "Woman to blame judgment"
     },
-    {
-      "slides": [
-        "m10"
-      ],
-      "from": [
-        335,
-        603
-      ],
-      "to": [
-        502,
-        475
-      ],
-      "curve": 0,
-      "arrowIndex": 0
-    },
-    {
-      "slides": [
-        "m10"
-      ],
-      "from": [
-        335,
-        687
-      ],
-      "to": [
-        502,
-        822
-      ],
-      "curve": 0,
-      "arrowIndex": 1
-    },
+    {"slides": ["m10"], "from": [282, 598], "to": [502, 475], "curve": 0, "arrowIndex": 0},
+    {"slides": ["m10"], "from": [282, 690], "to": [502, 822], "curve": 0, "arrowIndex": 1},
     {
       "slides": [
         "m10",
@@ -339,6 +311,10 @@ window.arrowReviewTheory = {
       "curve": 0,
       "arrowIndex": 1
     }
+  , {"slides": ["m10"], "from": [282, 641], "to": [538, 641], "curve": 0, "arrowIndex": 5}
+  , {"slides": ["m10"], "from": [1120, 641], "to": [1376, 641], "curve": 0, "arrowIndex": 6}
+  , {"slides": ["m10"], "from": [1060, 475], "to": [1280, 610], "curve": 0, "arrowIndex": 7}
+  , {"slides": ["m10"], "from": [1060, 822], "to": [1280, 672], "curve": 0, "arrowIndex": 8}
   ],
   "insertions": [
     {
