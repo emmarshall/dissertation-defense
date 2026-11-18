@@ -123,19 +123,19 @@ cat(sprintf('<div class="tl-mapwrap"><img src="anim/laws/%s" class="m80-still" a
 :::
 
 ::: notes
-So—when the Supreme Court eliminated the federal constitutional right to abortion in Dobbs, the ability of state governments to regulate and criminalize pregnancy outcomes expanded overnight—and today, 13 states enforce near-total abortion bans, which are shown on this map.
+So—when the Supreme Court eliminated the federal constitutional right to abortion in Dobbs, the ability of state governments to regulate and criminalize pregnancy outcomes expanded rapidly overnight—and today, at least 13 states enforce near-total abortion bans.
 
 **[CLICK]**
 
-And anti-abortion advocates have also continued to expand the enforcement tools available to criminalize suspected abortion-related activity—adapting to the new reality of abortion care, where most abortions are now medication abortions—by crafting new restrictions on access to telehealth services—
+But anti-abortion advocates have also continued to expand the enforcement tools available to states to criminalize suspected abortion-related activity—in many cases adapting to the new reality of abortion care—in which the majority of abortions are now what we would call medication abortions—by crafting newer creative restrictions on access to telehealth services—
 
 **[CLICK]**
 
-—FDA-approved medications, and even interstate travel. As a result, increasing rates of American women now live in a state where officials are newly empowered to investigate, arrest, and prosecute people for pregnancy-related behaviors and outcomes that were previously at least ostensibly protected under Roe.
+—FDA-approved medications like the two-drug abortion-pill regimen, and even interstate travel. As a result, increasing rates of American women now live in a state where officials are newly empowered to investigate, arrest, and prosecute people for pregnancy-related behaviors and outcomes that were previously at least ostensibly protected under Roe.
 
 **[CLICK]**
 
-And there have been a number of high-profile cases in the last few years that highlight the problem this creates: on paper, many state laws exempt the pregnant woman herself—but in practice, that exemption has not reliably protected women from investigation, arrest, or charges.
+And recently there have been a number of high-profile cases that really highlight the problem that all of this creates: on paper, many state laws exempt the pregnant woman herself from being criminalized for an "abortion"—but in practice, women in a variety of states are not actually reliably protected against being investigated, arrested, or criminally charged based on their own pregnancy outcomes.
 
 **[NEXT SLIDE: Pregnancy Criminalization]**
 :::
@@ -361,15 +361,17 @@ the first three years after *Dobbs*
 :::
 
 ::: notes
-"Ostensibly" of course being the key word there, because the reality is a bit more complicated.
+But importantly—in many respects—this risk of being targeted and criminalized is not solely a product of the Court's decision in Dobbs, because even under Roe, this trend of prosecutors finding a way to criminalize women for their own pregnancy outcomes had already exploded in popularity.
 
-Even under Roe, prosecutors found ways to criminalize women for their own pregnancy outcomes without directly challenging it—using a range of laws, like child abuse and even feticide.
+And during this period officials tended to use a range of laws, including things like child abuse statutes and even feticide laws that explicitly claimed to exempt the pregnant woman.
 
-As you can see on this map of cases that have been documented over time: at least 413 pregnant women were arrested, detained, or subjected to forced medical treatment between 1973 and 2005; another 1,396 criminal cases followed from 2006 until the eve of Dobbs; and at least 902 more were brought in just the first three years after Dobbs.
+But as you can see on this map of cases that have been documented over time: at least 413 pregnant women were arrested, detained, or subjected to forced medical treatment between 1973 and 2005; another 1,396 criminal cases followed from 2006 until the eve of Dobbs; and at least 902 more were brought in just the first three years after Dobbs.
 
-So the modern infrastructure for criminalizing pregnancy was largely built during a time when directly punishing women for abortion was not permitted.
+So all of this means that the modern infrastructure for criminalizing abortion post-Dobbs is not really new and was largely built during a period of time when directly punishing women for abortion was not permitted under federal law.
 
-And since Dobbs, the pace appears to have picked up—and the line between criminalizing abortion and criminalizing pregnancy more generally has become increasingly blurred, in part because of the intractable politics surrounding abortion, but also, more fundamentally, because of the nature of pregnancy itself.
+However, what is also clear is that in the wake of Dobbs, these increasingly creative efforts to expand those tools seem to have accelerated the rates of pregnancy criminalization more broadly—despite the American public's general lack of support for laws that directly criminalize women for abortion.
+
+But the reality of pregnancy loss creates a lot of confusion about what that really means in practice—in part because of the intractable politics surrounding abortion, but also, more fundamentally, because of the nature of pregnancy itself.
 
 **[NEXT SLIDE: Pregnancy-Loss Narratives]**
 :::
@@ -494,7 +496,7 @@ Instead, popular beliefs about pregnancy tend to conform to what some scholars h
 
 **[CLICK]**
 
-—unless interrupted by the mother making the "choice" to have an abortion.
+—unless interrupted by the woman making the "choice" to have an abortion.
 
 **[CLICK]**
 
@@ -506,15 +508,17 @@ And because medication abortion has further limited the outward, objective diffe
 
 **[CLICK]**
 
-—often the only real distinction between an abortion and a miscarriage is the pregnant person's state of mind at the time, which makes it particularly difficult to identify which pregnancies are potential criminal activity.
+—often the only real distinction between an abortion and a miscarriage is the pregnant person's intentions at the time, which makes it particularly difficult to identify which pregnancies are potential criminal activity in places where "abortion" is now technically criminalized.
 
 **[CLICK]**
 
-And while that state of mind was historically difficult to establish, modern communication technology has changed how and when these cases are likely to be investigated and pursued.
+And also, while that state of mind inquiry was historically quite difficult to pin down with admissible forms of evidence, that isn't really as much of a problem for states and prosecutors today, given that modern communication technology has changed how and when these cases are likely to be investigated and pursued.
 
 **[CLICK]**
 
-And that puts a lot of weight on the Fourth Amendment's procedural protections—like the requirement that police show probable cause before a warrant can issue—now that the substantive right to abortion is no longer federally protected.
+And given the Court's current approach to the Fourth Amendment after decades of the war on drugs, this creates a potential problem—or at the very least, grave uncertainty—about the extent to which these remaining procedural protections might continue to apply to pregnant women in these cases.
+
+And this is particularly true when considering the Court's quixotic approach to standards like probable cause—
 
 **[NEXT SLIDE: Probable cause and timing]**
 :::
@@ -600,17 +604,19 @@ And that puts a lot of weight on the Fourth Amendment's procedural protections�
 :::
 
 ::: notes
-Generally speaking, probable cause is an intentionally ambiguous standard, but the one consistent requirement is that it has to be based only on what was known beforehand.
+—which is, generally speaking, an intentionally ambiguous standard: it only refers to the requirement that legal actors possess a reasonable belief of criminality—a relatively low and nonspecific threshold requirement before conducting a lawful search or seizure.
+
+However, despite the Court's hesitancy to apply strict mathematical rules about how certain one needs to be for probable cause, there is at least one unambiguous component of the analysis that remains core to its essential functions—and that is the requirement that it cannot be justified in hindsight, or based on what a search or seizure ultimately turns up.
 
 **[CLICK]**
 
-Yet, over time, the Supreme Court has increasingly expanded the range of situations where the standard can be evaluated in hindsight, after the outcome of the search or seizure is already known.
+Now, despite this rhetorical commitment, the Court has nevertheless continued to adopt a "risk it to get the biscuit" style approach, where decision-makers are increasingly permitted to make the primary probable cause inquiry with the benefit of hindsight knowledge—
 
 **[CLICK]**
 
-And those decisions rest on the assumption that decision-makers, like judges and jurors, can be trusted to effectively ignore that hindsight knowledge.
+—and the assumption is that decision-makers, like judges and jurors, can be trusted to effectively ignore that hindsight knowledge.
 
-But the wisdom of that assumption is challenged by decades of research on the well-established hindsight bias, and related work on the risks of making these types of decisions with the benefit of hindsight.
+But the wisdom of that assumption is challenged by decades of research on the risks of making these types of decisions with the benefit of hindsight—
 
 **[NEXT SLIDE: Components of hindsight bias]**
 :::
@@ -951,7 +957,7 @@ Hindsight bias
 :::
 
 ::: notes
-Hindsight bias is commonly defined as the tendency, once people know how something turned out, to think they would have seen it coming—so the outcome seems more likely than it did beforehand.
+—most notably, the hindsight bias, which is commonly defined as the tendency for people who know how something turned out to believe that outcome was more likely than they would have judged it beforehand.
 
 But researchers have found that it is better understood as an umbrella term for three distinct phenomena that tend to occur when people are asked to make probabilistic judgments with the benefit of hindsight knowledge—memory distortions, "I said it would happen"; inevitability impressions, "it had to happen"; and foreseeability judgments, "I knew it would happen."
 
@@ -1308,7 +1314,7 @@ So outcome information can likely affect probable cause, and related downstream 
 
 **[CLICK]**
 
-—as well as through moral judgments of the detective and of the pregnant woman, where some researchers have proposed that outcome knowledge leads to exaggerated impressions of the probability of harm and, in turn, to greater attributions of negligence and blame.
+—as well as through the way distortions produced by either hindsight or outcome effects might influence downstream moral evaluations of the actors involved—like the detective and the pregnant woman—where some researchers have proposed that outcome knowledge leads to exaggerated impressions of the probability of harm and, in turn, to greater attributions of negligence and blame.
 
 **[NEXT SLIDE: What Is an Abortion?]**
 :::
@@ -1397,7 +1403,7 @@ What Is an Abortion?
 :::
 
 ::: notes
-I wanted to explore these mechanisms in the context of pregnancy-loss investigations—in the wake of Dobbs and the increasing efforts to criminalize abortion—because the epistemic uncertainty surrounding the concept of abortion makes this a particularly good area to examine how these concepts might fit together.
+And for my dissertation, I wanted to explore how these different mechanisms might operate in the context of pregnancy-loss investigations—in the wake of Dobbs and the increasing efforts to criminalize abortion—because the epistemic uncertainty surrounding the concept of abortion makes this a particularly good area to examine how these concepts might fit together.
 
 What counts as an abortion depends on who you ask: the law defines it one way—often in terms that reflect political or religious definitions of the concept—
 
@@ -1638,7 +1644,7 @@ The purpose of Pilot Study 1 was to better understand how people think about cri
 
 **[CLICK]**
 
-Then, for Pilot Study 2, I wrote three search warrant affidavits informed by those narratives—a self-managed abortion, a criminal miscarriage, and a non-criminal miscarriage.
+And the purpose of Pilot Study 2 was to pilot test the materials to be used in the main studies.
 
 And I selected the non-criminal miscarriage scenario for Study 1, because it triggered the expected hindsight bias effect I was looking for in the within-groups design.
 
@@ -3801,11 +3807,11 @@ Probable-cause rulings
 :::::::
 
 ::: notes
-The first question was whether knowing what the search found changed the probable cause ruling itself.
+So what did I find? Well, firstly, I looked at their decisions about probable cause—
 
 **[CLICK]**
 
-And it did: as you can see in the raw counts, compared with participants in the foresight condition, those who learned that the search had uncovered the expected self-managed abortion evidence were more likely to find probable cause, as I hypothesized.
+—and found that, as you can see in the raw counts, compared with participants in the foresight condition, those who learned that the search had uncovered the expected self-managed abortion evidence were more likely to find probable cause, as I hypothesized.
 
 Those who learned about the unexpected financial evidence fell in between.
 
@@ -4144,11 +4150,11 @@ Outcome likelihood
 :::::::
 
 ::: notes
-And one reason may be hindsight bias: to measure perceptions of inevitability, participants rated the likelihood that the search would reveal each possible outcome.
+And so I also explored the extent to which hindsight bias might potentially explain this inflated willingness to find probable cause, and had participants rate the likelihood that the search would reveal each possible outcome.
 
 **[CLICK]**
 
-As predicted, compared with the foresight condition, participants who learned that the search found self-managed abortion evidence rated pregnancy-related evidence as more likely to be found—so outcome knowledge increased the perceived inevitability of that outcome.
+As predicted, participants who learned that the search found evidence of a self-managed abortion rated the likelihood of that outcome occurring higher than people did in foresight—so outcome knowledge did seem to distort their perceptions of inevitability.
 
 **[NEXT SLIDE: Study 1: Retrospective sense-making]**
 :::
@@ -4589,9 +4595,9 @@ Retrospective sense-making
 :::::::
 
 ::: notes
-I hypothesized that part of that effect would operate through sense-making—through participants reinterpreting the evidence in light of the outcome.
+Therefore, I wanted to examine whether these inflated estimates of probability were being produced by the hypothesized sense-making process—so I ran a structural equation model.
 
-I measured that with relative relevance: how relevant participants rated the facts that fit a self-managed abortion, compared with the other facts.
+And I measured that process with relative relevance: how relevant participants rated the facts that fit a self-managed abortion, compared with the other facts.
 
 **[CLICK]**
 
@@ -4609,7 +4615,7 @@ Financial evidence, however, did not significantly change how relevant those fac
 
 And that indirect effect—from self-managed abortion evidence, through relevance, to likelihood—held in both legal contexts, which is consistent with participants reinterpreting the earlier evidence in light of an outcome that fit an abortion narrative.
 
-But I selected relative relevance as the mediator after the registered results were known, so this explanation remains exploratory.
+But note that the mediator used in this analysis was ultimately not the one I had planned, so this analysis should be considered exploratory.
 
 **[NEXT SLIDE: Study 1: Foreseeability]**
 :::
@@ -4843,7 +4849,9 @@ Foreseeability
 :::::::
 
 ::: notes
-Learning that the search found financial evidence—the unexpected outcome—made that outcome seem more likely too—
+But given that I did find the expected hindsight bias in inevitability perceptions, I also wanted to see if the expected pattern emerged in their subjective perceptions of foreseeability.
+
+And what I found was that learning that the search found financial evidence—the unexpected outcome—made that outcome seem more likely too—
 
 **[CLICK]**
 
@@ -5041,11 +5049,11 @@ Decision quality
 :::::::
 
 ::: notes
-And both of those hindsight components were related to outcome bias—that is, to how participants evaluated the detective's decision.
+So I was also interested in whether these hindsight distortions in probability impacted perceptions of the quality of the detective's decision to search.
 
 **[CLICK]**
 
-I examined whether the outcome changed how participants saw the evidence, the consequences, and how likely and foreseeable the outcome seemed—
+Specifically, I looked at whether the outcome changed how participants saw the evidence, the consequences, and how likely and foreseeable the outcome seemed—
 
 **[CLICK]**
 
@@ -5053,15 +5061,15 @@ I examined whether the outcome changed how participants saw the evidence, the co
 
 **[CLICK]**
 
-And in both versions of the case, the more likely pregnancy evidence seemed and the more foreseeable the outcome seemed, the better participants rated the detective's decision.
+And what I found was that, in both versions of the case, the more likely pregnancy evidence seemed and the more foreseeable the outcome seemed, the better participants rated the detective's decision.
 
 **[CLICK]**
 
-This has implications for how these different hindsight components might affect real-world decisions, because in exclusionary rule contexts judges are asked not only to consider probable cause, but to consider it from the perspective of the reasonable officer.
+This has implications for how these different hindsight components might affect real-world decisions, because in exclusionary rule contexts judges are asked not only to consider probable cause, but to consider it from the perspective of the reasonable officer—
 
 **[CLICK]**
 
-Probable cause depends on what an objectively reasonable officer could have anticipated regarding the search outcome at the time.
+—which depends on what an objectively reasonable officer could have anticipated regarding the search outcome at the time.
 
 **[NEXT SLIDE: Study 1: Attitudes and moral judgments]**
 :::
@@ -5270,7 +5278,7 @@ miscarriage <span class="s1d-ab">(NCM)</span></p>
 :::::::
 
 ::: notes
-Study 2 asked whether the same thing happens when the question shifts from the search to the person.
+So for Study 2, I wanted to examine whether these same effects would occur when the legal question shifts from the search to the person.
 
 Participants acted as jurors in a section 1983 false-arrest case brought by a woman who had been arrested for reckless feticide after a pregnancy loss at home.
 
@@ -5787,11 +5795,11 @@ Moral judgments
 :::::::
 
 ::: notes
-Even so, what participants were told changed how they judged her.
+So what did I find in Study 2? Well, firstly, I looked at how participants judged her—
 
 **[CLICK]**
 
-As predicted, those who were told it was a self-managed abortion blamed her more than those who were told it was a non-criminal miscarriage—
+—and found that, as predicted, those who were told it was a self-managed abortion blamed her more than those who were told it was a non-criminal miscarriage—
 
 **[CLICK]**
 
@@ -6442,7 +6450,7 @@ Probable-cause rulings
 :::::::
 
 ::: notes
-But whether participants blamed her is a different question from whether the evidence justified her arrest—and here the results were less consistent than in Study 1.
+But whether participants blamed her is a different question from whether the evidence justified her arrest, so I also looked at their decisions about probable cause—and here the results were less consistent than in Study 1.
 
 **[CLICK]**
 
